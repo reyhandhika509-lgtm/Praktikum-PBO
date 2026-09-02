@@ -100,7 +100,7 @@ public class RoadBike extends Bike {
 
 ```
 ## Hasil
-![alt text](Jobsheet1/BikeDemo/image/hasilPraktek.png)
+![alt text](/Jobsheet1/BikeDemo/image/hasilPraktek.png)
 ## 5 Pertanyaan
 
 ### 1. Jelaskan perbedaan antara object dengan class!
@@ -122,29 +122,28 @@ RoadBike mewarisi atribut dan method yang dimiliki oleh Bike. Oleh karena itu, b
 
 #### a. Foto 4 buah objek di sekitar kalian dengan 2 objek di antaranya merupakan objek yang mengandung konsep pewarisan (inheritance), contoh: kulkas, kursi, meja ruang tamu, meja belajar sehingga diketahui meja ruang tamu dan meja belajar mewarisi objek meja!
 
-b. Lakukan pengamatan terhadap 4 objek tersebut untuk menentukan atribut dan methodnya!
-c. Berdasarkan 4 buah objek tersebut, buat class nya dalam Bahasa pemrograman Java!
-d. Perlu diperhatikan bahwa terdapat dua class hasil pewarisan sehingga perlu menambah satu
-class baru sebagai class yang mewarisi dua class tersebut!
-e. Tambahkan dua atribut untuk setiap class!
-f. Tambahkan tiga method untuk setiap class termasuk method cetak informasi!
-g. Tambahkan satu class Demo sebagai main!
-h. Instansiasikan satu buah objek untuk setiap class!
-i. Terapkan setiap method untuk setiap objek yang dibuat!
-j. Contoh yang telah disebutkan pada poin 1.a tidak diperbolehkan dipakai dalam pengerjaan
+#### b. Lakukan pengamatan terhadap 4 objek tersebut untuk menentukan atribut dan methodnya!
+#### c. Berdasarkan 4 buah objek tersebut, buat class nya dalam Bahasa pemrograman Java!
+#### d. Perlu diperhatikan bahwa terdapat dua class hasil pewarisan sehingga perlu menambah satu class baru sebagai class yang mewarisi dua class tersebut!
+#### e. Tambahkan dua atribut untuk setiap class!
+#### f. Tambahkan tiga method untuk setiap class termasuk method cetak informasi!
+#### g. Tambahkan satu class Demo sebagai main!
+#### h. Instansiasikan satu buah objek untuk setiap class!
+#### i. Terapkan setiap method untuk setiap objek yang dibuat!
+#### j. Contoh yang telah disebutkan pada poin 1.a tidak diperbolehkan dipakai dalam pengerjaan
 tugas praktikum ini!
 
 # Jawaban:
 
 ### Objek yang saya ambil: 
 
-![alt text](Jobsheet1/BikeDemo/image/Earphone.png) 
+ ![alt text](image/Earphone.png)
 ### 1. Earphone
-![alt text](Jobsheet1/BikeDemo/image/headset.png)
+![alt text](image/headset.png)
 ### 2. Headset
-![alt text](Jobsheet1/BikeDemo/image/Laptop.jpeg)
+![alt text](image/Laptop.jpeg)
 ### 3. Laptop
-![alt text](Jobsheet1/BikeDemo/image/Mouse.jpeg)
+![alt text](image/Mouse.jpeg)
 ### 4. Mouse
 ## Code PeriferalAudio.java
 ```bash
@@ -387,4 +386,4 @@ public class TugasPraktikumDemo {
 ```
 
 ## Hasil
-![alt text](Jobsheet1/BikeDemo/image/HasilTugasPraktek.png)
+![alt text](image/HasilTugasPraktek.png)
